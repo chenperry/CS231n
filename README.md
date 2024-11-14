@@ -1,2 +1,2 @@
-# CS231n
-Stanford CS231n (Convolutional Neural Networks for Visual Recognition) solutions
+# CS231n_solutions
+Standford CS231n (Convolutional Neural Networks for Visual Recognition) solutions
